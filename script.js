@@ -51,10 +51,14 @@ createGrid(16, 16);
 gridButton.addEventListener("click", (e) => {
   size = prompt("What size do you want the grid to be ? Example: 1-100");
 
-  if (size > 100) {
+
+  if (isNaN(size)) {
+    alert("Ensure you enter a valid number between 1-100.")
+  }
+  else if (size > 100) {
     alert("Can't be over 100!");
-  } else if (size <= 0 || size === '' || !Number.isInteger(size)) {
-    alert("Can't be under 0, empty or not a number!");
+  } else if (size <= 0 || size === '') {
+    alert("Can't be under 0, or empty.");
   } else {
     container.replaceChildren();
     createGrid(size, size)
