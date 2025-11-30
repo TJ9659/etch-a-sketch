@@ -9,9 +9,9 @@ This is a project from the Odin Project, which the objectives are to
 
 Despite the name, do not be tempted to research or use CSS Grid, as it will be taught in a later lesson after the foundations path. This project is an opportunity specifically to practice Flexbox!
 
-I revisited this project to get a better understanding of JavaScript, the website is not mobile responsive or usable yet as it relies on mousehover, maybe I'll get to it one day. For now I did one of the extra credit exercise.
+I revisited this project to get a better understanding of my understanding of pure JavaScript and see how much I can improve on the existing project, the website is not mobile responsive or usable yet as it relies on mousehover, maybe I'll get to it one day. For now I did one of the extra credit exercise.
 
-**Extra credit**
+**Extra credit**:
 Transform the behavior of a square when interacting with the mouse by introducing a series of modifications.
 1. Rather than squares being the same color throughout the grid, randomize the squares’ RGB values with each interaction.
 
