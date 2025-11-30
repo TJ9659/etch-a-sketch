@@ -42,8 +42,9 @@ body {
     
 }
 
-.hover-column{
-    background-color: black;
+.color-container{
+    display: flex;
+    flex-direction: column;
 }
 
 

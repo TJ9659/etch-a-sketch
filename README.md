@@ -8,3 +8,13 @@ This is a project from the Odin Project, which the objectives are to
 - Use Flexbox to make the divs appear as a grid (versus just one on each line).
 
 Despite the name, do not be tempted to research or use CSS Grid, as it will be taught in a later lesson after the foundations path. This project is an opportunity specifically to practice Flexbox!
+
+I revisited this project to get a better understanding of JavaScript, the website is not mobile responsive or usable yet as it relies on mousehover, maybe I'll get to it one day. For now I did one of the extra credit exercise.
+
+**Extra credit**
+Transform the behavior of a square when interacting with the mouse by introducing a series of modifications.
+1. Rather than squares being the same color throughout the grid, randomize the squares’ RGB values with each interaction.
+
+
+Check out the project at the URL provided below.
+https://github.com/TJ9659/etch-a-sketch.git
