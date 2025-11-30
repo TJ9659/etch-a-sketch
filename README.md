@@ -18,4 +18,4 @@ Transform the behavior of a square when interacting with the mouse by introducin
 
 Check out the project at the URL provided below.
 
-https://github.com/TJ9659/etch-a-sketch.git
+https://tj9659.github.io/etch-a-sketch/
